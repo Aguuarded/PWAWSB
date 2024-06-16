@@ -1,0 +1,16 @@
+{
+    "name": "Blog o kawie",
+    "short_name": "Kawusia",
+    "theme_color": "#bdb95b",
+    "background_color": "#bdb95b",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons":
+    [{
+      "src": "./coffe_icon.png",
+      "sizes" : "512x512",
+      "type" : "image/png"
+    }]
+  }
