@@ -6,7 +6,7 @@
     "display": "browser",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/PWAWSB",
+    "start_url": "",
     "icons":
     [{
       "src": "./coffee_icon.png",
