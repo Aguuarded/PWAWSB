@@ -6,10 +6,10 @@
     "display": "browser",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/PWAWSB",
     "icons":
     [{
-      "src": "./coffe_icon.png",
+      "src": "./coffee_icon.png",
       "sizes" : "512x512",
       "type" : "image/png"
     }]
